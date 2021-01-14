@@ -1,0 +1,31 @@
+.bg-color{
+    background-color: #FFFBF0;
+}
+.header-paragraph-color{
+    color:#FABE4C;
+}
+.top-section{
+    background-color: #FFFBF0;
+}
+.img-size{
+    width: 100%;
+    
+}
+.card img{
+    background-size: cover;
+}
+.card-border, .card-footer{
+    border-radius: 15px;
+}
+
+ @media (max-width: 576px) {  
+    .displayBlock{
+        display: block;
+        width: 100%;
+    
+    }
+ }
+ .btn{
+     background-color: #94AE2F;
+     border-radius: 8px;
+ }
